@@ -1,10 +1,10 @@
 {
     "greet":{
-        "english": "✨ Hi {}, I am Tok Mate Bot and I can help you to download TikTok videos really fast.\n\n<b>Send any TikTok links to download.</b>\n\nEg: <code>https://www.tiktok.com/@hemantapkh/video/6978860931522514178</code>\n\n<b>For inline download, just type @TokMateBot in any of your chats.</b>\n\nEg: <code>@TokMateBot https://vm.tiktok.com/ZM8LSAUYT</code>"
+        "english": "✨ Hi {}, I am Naruto × TikTock Bot and I can help you to download TikTok videos really fast.\n\n<b>Send any TikTok links to download.</b>\n\nEg: <code>https://www.tiktok.com/@ToxicDeeModderr/video/6978860931522514178</code>\n\n<b>For inline download, just type @NarutoTickTockBot in any of your chats.</b>\n\nEg: <code>@NarutoTickTockBot https://vm.tiktok.com/ZM8LSAUYT</code>"
     }, 
     
     "enterLink": {
-        "english": "🔗 Enter the TikTok link to send"
+        "english": "Jᴏɪɴ Cʜᴀɴɴᴇʟ : @TheBotsWorldChannel"
     },
 
     "clickToSend": {
@@ -12,7 +12,7 @@
     },
     
     "invalidUrl": {
-        "english": "⚠️ Invalid TikTok URL"
+        "english": "Yᴏᴜ Nᴇᴇᴅ Tᴏ Jᴏɪɴ Oᴜʀ Cʜᴀɴɴᴇʟ Fɪʀsᴛ : @TheBotsWorldChannel"
     },
     
     "privateVideo": {
